@@ -86,7 +86,7 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ShopFloorBusiness\ShopFloor.Business.csproj">
+    <ProjectReference Include="..\ShopFloor.Business\ShopFloor.Business.csproj">
       <Project>{f71a027f-146e-4cf3-9a14-2debdfe3d723}</Project>
       <Name>ShopFloor.Business</Name>
     </ProjectReference>
