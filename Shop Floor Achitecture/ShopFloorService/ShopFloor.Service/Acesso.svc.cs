@@ -4,8 +4,8 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
-using ShopFloor.Business.Entity;
 using ShopFloor.Business.Modules.Acesso;
+using ShopFloor.Entity;
 
 namespace ShopFloor.Service
 {

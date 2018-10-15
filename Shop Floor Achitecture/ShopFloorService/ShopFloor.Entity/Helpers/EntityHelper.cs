@@ -1,8 +1,8 @@
 ﻿using System.Runtime.Serialization;
 
-namespace ShopFloor.Entity
+namespace ShopFloor.Entity.Helpers
 {
-    public class Entity
+    public class EntityHelper
     {
         bool? inativo { get; set; }
 

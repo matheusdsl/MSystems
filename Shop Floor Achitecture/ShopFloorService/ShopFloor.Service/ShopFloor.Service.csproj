@@ -90,6 +90,10 @@
       <Project>{f71a027f-146e-4cf3-9a14-2debdfe3d723}</Project>
       <Name>ShopFloor.Business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ShopFloor.Entity\ShopFloor.Entity.csproj">
+      <Project>{B975F2BE-DD65-429C-AB56-EC36B14FC052}</Project>
+      <Name>ShopFloor.Entity</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
